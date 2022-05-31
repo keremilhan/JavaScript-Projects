@@ -12,4 +12,5 @@
 | 07  | [Calculator w/o Class](https://github.com/keremilhan/Calculator-Project)                | [Webpage](https://keremilhan.github.io/Calculator-Project/)         |
 | 08  | [Identity Number Validation](https://github.com/keremilhan/TC-Validation)               | [Webpage](https://keremilhan.github.io/TC-Validation/)              |
 | 09  | [Hangman Game](https://github.com/keremilhan/Hangman-Game)                              | [Webpage](https://keremilhan.github.io/Hangman-Game/)               |
-| 10  | [Weather App](https://github.com/keremilhan/Weather-App)                                | [Webpage](https://keremilhan.github.io/Weather-App/)               |
+| 10  | [Weather App](https://github.com/keremilhan/Weather-App)                                | [Webpage](https://keremilhan.github.io/Weather-App/)                |
+| 11  | [Random User Generator](https://github.com/keremilhan/Random-User-Generator)            | [Webpage](https://keremilhan.github.io/Random-User-Generator/)      |
