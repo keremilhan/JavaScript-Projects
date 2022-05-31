@@ -14,3 +14,4 @@
 | 09  | [Hangman Game](https://github.com/keremilhan/Hangman-Game)                              | [Webpage](https://keremilhan.github.io/Hangman-Game/)               |
 | 10  | [Weather App](https://github.com/keremilhan/Weather-App)                                | [Webpage](https://keremilhan.github.io/Weather-App/)                |
 | 11  | [Random User Generator](https://github.com/keremilhan/Random-User-Generator)            | [Webpage](https://keremilhan.github.io/Random-User-Generator/)      |
+| 12  | [Random Advice Generator](https://github.com/keremilhan/Random-Advice-Generator)        | [Webpage](https://keremilhan.github.io/Random-Advice-Generator/)    |
