@@ -1,4 +1,4 @@
-# JavaScript-Projects
+# JavaScript Projects
 
 
 |  #  | Project                                                                                 | Live Demo                                                           |
