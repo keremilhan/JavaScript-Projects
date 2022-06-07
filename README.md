@@ -16,3 +16,4 @@
 | 11  | [Weather App](https://github.com/keremilhan/Weather-App)                                | [Webpage](https://keremilhan.github.io/Weather-App/)                |
 | 12  | [Random User Generator](https://github.com/keremilhan/Random-User-Generator)            | [Webpage](https://keremilhan.github.io/Random-User-Generator/)      |
 | 13  | [Random Advice Generator](https://github.com/keremilhan/Random-Advice-Generator)        | [Webpage](https://keremilhan.github.io/Random-Advice-Generator/)    |
+| 14  | [Blackjack Game](https://github.com/keremilhan/Blackjack)                               | [Webpage](https://keremilhan.github.io/Blackjack/)                  |
